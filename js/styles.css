@@ -1,0 +1,173 @@
+/* ===== ESTILOS GENERALES ===== */
+
+body{
+    margin: 0;
+    padding: 0;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color: #dff6dd;
+    color: #1f1f1f;
+}
+
+/* ===== HEADER ===== */
+
+header{
+    background: linear-gradient(90deg, #2e8b57, #3cb371);
+
+    color: white;
+
+    text-align: center;
+
+    padding: 30px 20px;
+
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+}
+
+header h1{
+    margin: 0;
+
+    font-size: 3rem;
+
+    letter-spacing: 2px;
+}
+
+header p{
+    margin-top: 10px;
+
+    font-size: 1.1rem;
+}
+
+/* ===== CONTENEDOR ===== */
+
+#contenedor-sapos{
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    gap: 25px;
+
+    padding: 40px;
+}
+
+/* ===== TARJETAS ===== */
+
+.tarjeta-sapo{
+
+    width: 320px;
+
+    background-color: white;
+
+    border-radius: 20px;
+
+    padding: 20px;
+
+    box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+
+    transition: all 0.3s ease;
+
+    border: 4px solid #7ed957;
+
+    position: relative;
+
+    overflow: hidden;
+}
+
+/* Línea decorativa arriba */
+
+.tarjeta-sapo::before{
+
+    content: "";
+
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 8px;
+
+    background-color: #2e8b57;
+}
+
+/* Hover */
+
+.tarjeta-sapo:hover{
+
+    transform: translateY(-10px) scale(1.02);
+
+    box-shadow: 0 10px 20px rgba(0,0,0,0.25);
+}
+
+/* ===== TÍTULO ===== */
+
+.tarjeta-sapo h2{
+
+    margin-top: 15px;
+
+    text-align: center;
+
+    color: #2e8b57;
+
+    font-size: 1.8rem;
+}
+
+/* ===== TEXTOS ===== */
+
+.tarjeta-sapo p{
+
+    margin: 10px 0;
+
+    line-height: 1.5;
+}
+
+.tarjeta-sapo strong{
+
+    color: #1b5e20;
+}
+
+/* ===== MENSAJE DE CARGA ===== */
+
+.mensaje{
+
+    font-size: 1.4rem;
+
+    color: #2e8b57;
+
+    text-align: center;
+
+    width: 100%;
+}
+
+/* ===== ERROR ===== */
+
+.error{
+
+    color: darkred;
+
+    font-size: 1.3rem;
+
+    background-color: #ffd6d6;
+
+    padding: 15px;
+
+    border-radius: 10px;
+
+    border: 2px solid red;
+}
+
+/* ===== RESPONSIVE ===== */
+
+@media(max-width: 700px){
+
+    header h1{
+        font-size: 2.2rem;
+    }
+
+    .tarjeta-sapo{
+        width: 90%;
+    }
+}

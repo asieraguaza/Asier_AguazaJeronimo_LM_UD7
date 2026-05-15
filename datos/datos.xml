@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sapos>
+    <sapo id="1">
+        <nombre>Sapo común</nombre>
+        <especie>Bufo bufo</especie>
+        <edad>3</edad>
+        <peso>120</peso>
+        <longitud>12</longitud>
+        <color>Marrón</color>
+        <habitat>Bosque húmedo</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>10</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="2">
+        <nombre>Sapo verde</nombre>
+        <especie>Bufotes viridis</especie>
+        <edad>2</edad>
+        <peso>95</peso>
+        <longitud>10</longitud>
+        <color>Verde</color>
+        <habitat>Praderas</habitat>
+        <dieta>Insectos y larvas</dieta>
+        <esperanza_vida>8</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="3">
+        <nombre>Sapo de caña</nombre>
+        <especie>Rhinella marina</especie>
+        <edad>4</edad>
+        <peso>150</peso>
+        <longitud>15</longitud>
+        <color>Marrón oscuro</color>
+        <habitat>Selva tropical</habitat>
+        <dieta>Insectos y pequeños vertebrados</dieta>
+        <esperanza_vida>12</esperanza_vida>
+        <velocidad>4</velocidad>
+    </sapo>
+
+        <sapo id="4">
+        <nombre>Sapo corredor</nombre>
+        <especie>Epidalea calamita</especie>
+        <edad>1</edad>
+        <peso>80</peso>
+        <longitud>9</longitud>
+        <color>Amarillo verdoso</color>
+        <habitat>Zonas arenosas</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>7</esperanza_vida>
+        <velocidad>7</velocidad>
+    </sapo>
+
+    <sapo id="5">
+        <nombre>Sapo gigante</nombre>
+        <especie>Bufo marinus</especie>
+        <edad>5</edad>
+        <peso>200</peso>
+        <longitud>18</longitud>
+        <color>Marrón oscuro</color>
+        <habitat>Humedales</habitat>
+        <dieta>Insectos y pequeños animales</dieta>
+        <esperanza_vida>12</esperanza_vida>
+        <velocidad>4</velocidad>
+    </sapo>
+
+    <sapo id="6">
+        <nombre>Sapo moteado</nombre>
+        <especie>Pelobates fuscus</especie>
+        <edad>3</edad>
+        <peso>110</peso>
+        <longitud>11</longitud>
+        <color>Marrón con manchas</color>
+        <habitat>Campos húmedos</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="7">
+        <nombre>Sapo africano</nombre>
+        <especie>Amietophrynus regularis</especie>
+        <edad>2</edad>
+        <peso>90</peso>
+        <longitud>10</longitud>
+        <color>Beige</color>
+        <habitat>Sabana</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>8</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="8">
+        <nombre>Sapo arborícola</nombre>
+        <especie>Osteocephalus taurinus</especie>
+        <edad>4</edad>
+        <peso>130</peso>
+        <longitud>13</longitud>
+        <color>Verde brillante</color>
+        <habitat>Selva amazónica</habitat>
+        <dieta>Insectos y larvas</dieta>
+        <esperanza_vida>10</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="9">
+        <nombre>Sapo del desierto</nombre>
+        <especie>Anaxyrus punctatus</especie>
+        <edad>3</edad>
+        <peso>85</peso>
+        <longitud>9</longitud>
+        <color>Marrón claro</color>
+        <habitat>Desierto</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>6</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="10">
+        <nombre>Sapo rojo</nombre>
+        <especie>Atelopus sp.</especie>
+        <edad>2</edad>
+        <peso>60</peso>
+        <longitud>8</longitud>
+        <color>Rojo intenso</color>
+        <habitat>Montañas húmedas</habitat>
+        <dieta>Pequeños insectos</dieta>
+        <esperanza_vida>5</esperanza_vida>
+        <velocidad>7</velocidad>
+    </sapo>
+
+    <sapo id="11">
+        <nombre>Sapo azul</nombre>
+        <especie>Dendrobates azureus</especie>
+        <edad>3</edad>
+        <peso>70</peso>
+        <longitud>7</longitud>
+        <color>Azul brillante</color>
+        <habitat>Selva tropical</habitat>
+        <dieta>Hormigas</dieta>
+        <esperanza_vida>8</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="12">
+        <nombre>Sapo de montaña</nombre>
+        <especie>Bufo montanus</especie>
+        <edad>4</edad>
+        <peso>115</peso>
+        <longitud>12</longitud>
+        <color>Gris</color>
+        <habitat>Montañas</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="13">
+        <nombre>Sapo amarillo</nombre>
+        <especie>Bufo flavus</especie>
+        <edad>2</edad>
+        <peso>75</peso>
+        <longitud>9</longitud>
+        <color>Amarillo</color>
+        <habitat>Praderas húmedas</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>7</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="14">
+        <nombre>Sapo gigante africano</nombre>
+        <especie>Bufo africanus</especie>
+        <edad>6</edad>
+        <peso>210</peso>
+        <longitud>19</longitud>
+        <color>Marrón oscuro</color>
+        <habitat>Selva africana</habitat>
+        <dieta>Pequeños vertebrados</dieta>
+        <esperanza_vida>13</esperanza_vida>
+        <velocidad>4</velocidad>
+    </sapo>
+
+    <sapo id="15">
+        <nombre>Sapo del río</nombre>
+        <especie>Bufo fluvius</especie>
+        <edad>3</edad>
+        <peso>100</peso>
+        <longitud>11</longitud>
+        <color>Verde oscuro</color>
+        <habitat>Riberas</habitat>
+        <dieta>Insectos acuáticos</dieta>
+        <esperanza_vida>8</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="16">
+        <nombre>Sapo nocturno</nombre>
+        <especie>Bufo nocturnus</especie>
+        <edad>4</edad>
+        <peso>105</peso>
+        <longitud>11</longitud>
+        <color>Negro</color>
+        <habitat>Bosque nocturno</habitat>
+        <dieta>Insectos nocturnos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="17">
+        <nombre>Sapo veloz</nombre>
+        <especie>Bufo rapidus</especie>
+        <edad>2</edad>
+        <peso>85</peso>
+        <longitud>10</longitud>
+        <color>Marrón claro</color>
+        <habitat>Campos abiertos</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>6</esperanza_vida>
+        <velocidad>8</velocidad>
+    </sapo>
+
+    <sapo id="18">
+        <nombre>Sapo acuático</nombre>
+        <especie>Bufo aquaticus</especie>
+        <edad>5</edad>
+        <peso>130</peso>
+        <longitud>13</longitud>
+        <color>Verde oscuro</color>
+        <habitat>Lagos y estanques</habitat>
+        <dieta>Larvas</dieta>
+        <esperanza_vida>11</esperanza_vida>
+        <velocidad>4</velocidad>
+    </sapo>
+
+    <sapo id="19">
+        <nombre>Sapo espinoso</nombre>
+        <especie>Bufo spinosus</especie>
+        <edad>4</edad>
+        <peso>125</peso>
+        <longitud>12</longitud>
+        <color>Marrón rugoso</color>
+        <habitat>Bosques secos</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>10</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="20">
+        <nombre>Sapo brillante</nombre>
+        <especie>Bufo lucidus</especie>
+        <edad>3</edad>
+        <peso>95</peso>
+        <longitud>10</longitud>
+        <color>Verde brillante</color>
+        <habitat>Selva húmeda</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>8</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="21">
+        <nombre>Sapo gris</nombre>
+        <especie>Bufo griseus</especie>
+        <edad>4</edad>
+        <peso>110</peso>
+        <longitud>11</longitud>
+        <color>Gris</color>
+        <habitat>Bosque templado</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="22">
+        <nombre>Sapo pequeño</nombre>
+        <especie>Bufo minor</especie>
+        <edad>1</edad>
+        <peso>50</peso>
+        <longitud>6</longitud>
+        <color>Marrón claro</color>
+        <habitat>Praderas</habitat>
+        <dieta>Microinsectos</dieta>
+        <esperanza_vida>5</esperanza_vida>
+        <velocidad>7</velocidad>
+    </sapo>
+
+    <sapo id="23">
+        <nombre>Sapo grande</nombre>
+        <especie>Bufo major</especie>
+        <edad>6</edad>
+        <peso>220</peso>
+        <longitud>20</longitud>
+        <color>Marrón oscuro</color>
+        <habitat>Humedales</habitat>
+        <dieta>Pequeños animales</dieta>
+        <esperanza_vida>14</esperanza_vida>
+        <velocidad>3</velocidad>
+    </sapo>
+
+    <sapo id="24">
+        <nombre>Sapo selvático</nombre>
+        <especie>Bufo silvaticus</especie>
+        <edad>3</edad>
+        <peso>115</peso>
+        <longitud>12</longitud>
+        <color>Verde oliva</color>
+        <habitat>Selva</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="25">
+        <nombre>Sapo del lago</nombre>
+        <especie>Bufo lacustris</especie>
+        <edad>5</edad>
+        <peso>140</peso>
+        <longitud>14</longitud>
+        <color>Verde oscuro</color>
+        <habitat>Lagos</habitat>
+        <dieta>Insectos acuáticos</dieta>
+        <esperanza_vida>11</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+        <sapo id="26">
+        <nombre>Sapo dorado</nombre>
+        <especie>Bufo aureus</especie>
+        <edad>2</edad>
+        <peso>90</peso>
+        <longitud>10</longitud>
+        <color>Dorado</color>
+        <habitat>Bosques húmedos</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>7</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="27">
+        <nombre>Sapo oscuro</nombre>
+        <especie>Bufo obscurus</especie>
+        <edad>4</edad>
+        <peso>120</peso>
+        <longitud>12</longitud>
+        <color>Negro</color>
+        <habitat>Cuevas</habitat>
+        <dieta>Insectos nocturnos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="28">
+        <nombre>Sapo rayado</nombre>
+        <especie>Bufo lineatus</especie>
+        <edad>3</edad>
+        <peso>100</peso>
+        <longitud>11</longitud>
+        <color>Marrón con rayas</color>
+        <habitat>Praderas</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>8</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="29">
+        <nombre>Sapo de pantano</nombre>
+        <especie>Bufo palustris</especie>
+        <edad>5</edad>
+        <peso>135</peso>
+        <longitud>13</longitud>
+        <color>Verde oscuro</color>
+        <habitat>Pantanos</habitat>
+        <dieta>Larvas e insectos</dieta>
+        <esperanza_vida>11</esperanza_vida>
+        <velocidad>4</velocidad>
+    </sapo>
+
+    <sapo id="30">
+        <nombre>Sapo ágil</nombre>
+        <especie>Bufo agilis</especie>
+        <edad>2</edad>
+        <peso>85</peso>
+        <longitud>9</longitud>
+        <color>Marrón claro</color>
+        <habitat>Campos abiertos</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>6</esperanza_vida>
+        <velocidad>8</velocidad>
+    </sapo>
+
+    <sapo id="31">
+        <nombre>Sapo robusto</nombre>
+        <especie>Bufo robustus</especie>
+        <edad>6</edad>
+        <peso>180</peso>
+        <longitud>17</longitud>
+        <color>Marrón oscuro</color>
+        <habitat>Humedales</habitat>
+        <dieta>Pequeños animales</dieta>
+        <esperanza_vida>13</esperanza_vida>
+        <velocidad>4</velocidad>
+    </sapo>
+
+    <sapo id="32">
+        <nombre>Sapo del bosque</nombre>
+        <especie>Bufo silvestris</especie>
+        <edad>3</edad>
+        <peso>110</peso>
+        <longitud>12</longitud>
+        <color>Verde oliva</color>
+        <habitat>Bosques</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="33">
+        <nombre>Sapo claro</nombre>
+        <especie>Bufo clarus</especie>
+        <edad>2</edad>
+        <peso>95</peso>
+        <longitud>10</longitud>
+        <color>Beige</color>
+        <habitat>Praderas secas</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>7</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="34">
+        <nombre>Sapo de altura</nombre>
+        <especie>Bufo altus</especie>
+        <edad>4</edad>
+        <peso>125</peso>
+        <longitud>13</longitud>
+        <color>Gris oscuro</color>
+        <habitat>Montañas</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>10</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="35">
+        <nombre>Sapo veloz nocturno</nombre>
+        <especie>Bufo nocturnus rapidus</especie>
+        <edad>3</edad>
+        <peso>100</peso>
+        <longitud>11</longitud>
+        <color>Negro brillante</color>
+        <habitat>Bosques oscuros</habitat>
+        <dieta>Insectos nocturnos</dieta>
+        <esperanza_vida>8</esperanza_vida>
+        <velocidad>9</velocidad>
+    </sapo>
+
+    <sapo id="36">
+        <nombre>Sapo acuático grande</nombre>
+        <especie>Bufo aquaticus major</especie>
+        <edad>5</edad> 
+        <peso>150</peso>
+        <longitud>15</longitud>
+        <color>Verde oscuro</color>
+        <habitat>Lagos</habitat>
+        <dieta>Larvas</dieta>
+        <esperanza_vida>11</esperanza_vida>
+        <velocidad>4</velocidad>
+    </sapo>
+
+    <sapo id="37">
+        <nombre>Sapo marrón</nombre>
+        <especie>Bufo brunneus</especie>
+        <edad>3</edad>
+        <peso>105</peso>
+        <longitud>11</longitud>
+        <color>Marrón</color>
+        <habitat>Bosques templados</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="38">
+        <nombre>Sapo de arena</nombre>
+        <especie>Bufo arenarius</especie>
+        <edad>2</edad>
+        <peso>80</peso>
+        <longitud>9</longitud>
+        <color>Amarillo claro</color>
+        <habitat>Desierto</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>6</esperanza_vida>
+        <velocidad>7</velocidad>
+    </sapo>
+
+    <sapo id="39">
+        <nombre>Sapo verde intenso</nombre>
+        <especie>Bufo viridis intensus</especie>
+        <edad>4</edad>
+        <peso>115</peso>
+        <longitud>12</longitud>
+        <color>Verde brillante</color>
+        <habitat>Selva</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>10</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="40">
+        <nombre>Sapo pesado</nombre>
+        <especie>Bufo gravis</especie>
+        <edad>6</edad>
+        <peso>210</peso>
+        <longitud>19</longitud>
+        <color>Marrón oscuro</color>
+        <habitat>Humedales</habitat>
+        <dieta>Pequeños animales</dieta>
+        <esperanza_vida>14</esperanza_vida>
+        <velocidad>3</velocidad>
+    </sapo>
+
+    <sapo id="41">
+        <nombre>Sapo ligero</nombre>
+        <especie>Bufo levis</especie>
+        <edad>1</edad>
+        <peso>60</peso>
+        <longitud>7</longitud>
+        <color>Beige claro</color>
+        <habitat>Praderas</habitat>
+        <dieta>Microinsectos</dieta>
+        <esperanza_vida>5</esperanza_vida>
+        <velocidad>7</velocidad>
+    </sapo>
+
+    <sapo id="42">
+        <nombre>Sapo moteado oscuro</nombre>
+        <especie>Bufo maculatus obscurus</especie>
+        <edad>3</edad>
+        <peso>110</peso>
+        <longitud>11</longitud>
+        <color>Marrón con manchas oscuras</color>
+        <habitat>Bosques húmedos</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="43">
+        <nombre>Sapo de río rápido</nombre>
+        <especie>Bufo fluvius rapidus</especie>
+        <edad>4</edad>
+        <peso>120</peso>
+        <longitud>12</longitud>
+        <color>Verde oscuro</color>
+        <habitat>Ríos</habitat>
+        <dieta>Insectos acuáticos</dieta>
+        <esperanza_vida>10</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="44">
+        <nombre>Sapo gris oscuro</nombre>
+        <especie>Bufo griseus obscurus</especie>
+        <edad>5</edad>
+        <peso>130</peso>
+        <longitud>13</longitud>
+        <color>Gris oscuro</color>
+        <habitat>Bosques densos</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>11</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="45">
+        <nombre>Sapo brillante verde</nombre>
+        <especie>Bufo lucidus viridis</especie>
+        <edad>3</edad>
+        <peso>100</peso>
+        <longitud>11</longitud>
+        <color>Verde brillante</color>
+        <habitat>Selva húmeda</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="46">
+        <nombre>Sapo de montaña frío</nombre>
+        <especie>Bufo montanus frigidus</especie>
+        <edad>4</edad>
+        <peso>120</peso>
+        <longitud>12</longitud>
+        <color>Gris claro</color>
+        <habitat>Montañas frías</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>10</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="47">
+        <nombre>Sapo selvático oscuro</nombre>
+        <especie>Bufo silvaticus obscurus</especie>
+        <edad>3</edad>
+        <peso>115</peso>
+        <longitud>12</longitud>
+        <color>Verde oscuro</color>
+        <habitat>Selva densa</habitat>
+        <dieta>Insectos</dieta>
+        <esperanza_vida>9</esperanza_vida>
+        <velocidad>5</velocidad>
+    </sapo>
+
+    <sapo id="48">
+        <nombre>Sapo gigante pesado</nombre>
+        <especie>Bufo major gravis</especie>
+        <edad>7</edad>
+        <peso>230</peso>
+        <longitud>21</longitud>
+        <color>Marrón oscuro</color>
+        <habitat>Humedales</habitat>
+        <dieta>Pequeños vertebrados</dieta>
+        <esperanza_vida>15</esperanza_vida>
+        <velocidad>3</velocidad>
+    </sapo>
+
+    <sapo id="49">
+        <nombre>Sapo pequeño rápido</nombre>
+        <especie>Bufo minor rapidus</especie>
+        <edad>1</edad>
+        <peso>55</peso>
+        <longitud>6</longitud>
+        <color>Marrón claro</color>
+        <habitat>Praderas</habitat>
+        <dieta>Microinsectos</dieta>
+        <esperanza_vida>5</esperanza_vida>
+        <velocidad>8</velocidad>
+    </sapo>
+
+    <sapo id="50">
+        <nombre>Sapo extremo</nombre>
+        <especie>Bufo extremis</especie>
+        <edad>5</edad>
+        <peso>160</peso>
+        <longitud>16</longitud>
+        <color>Negro y verde</color>
+        <habitat>Entornos extremos</habitat>
+        <dieta>Insectos y pequeños animales</dieta>
+        <esperanza_vida>12</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+
+    <sapo id="51">
+        <nombre>Benjamin</nombre>
+        <especie>Bufo Bufo</especie>
+        <edad>5</edad>
+        <peso>160</peso>
+        <longitud>16</longitud>
+        <color>Negro y verde</color>
+        <habitat>Entornos extremos</habitat>
+        <dieta>Insectos y pequeños animales</dieta>
+        <esperanza_vida>12</esperanza_vida>
+        <velocidad>6</velocidad>
+    </sapo>
+</sapos>    
